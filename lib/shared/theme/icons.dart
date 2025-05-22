@@ -1,0 +1,33 @@
+class AppIcons {
+  static const String all = 'assets/icons/all.png';
+  static const String allSvg = 'assets/icons/all.svg';
+  static const String eyeIcon = 'assets/icons/eye.svg';
+  static const String eyeFilledIcon = 'assets/icons/eye-filled.svg';
+  static const String facebookIcon = 'assets/icons/facebook-logo.png';
+  static const String filterIcon = 'assets/icons/filter.png';
+  static const String googleIcon = 'assets/icons/google-logo.svg';
+  static const String groupSvg = 'assets/icons/group.svg';
+  static const String group = 'assets/icons/group.png';
+  static const String gymIcon = 'assets/icons/gym-icon.svg';
+  static const String hostalIcon = 'assets/icons/hostal-icon.svg';
+  static const String keyIcon = 'assets/icons/key-logo.svg';
+  static const String linkedinIcon = 'assets/icons/linkedin-logo.svg';
+  static const String signInIcon = 'assets/icons/sign-in.svg';
+  static const String searchIcon = 'assets/icons/search.png';
+  static const String checkIcon = 'assets/icons/check.svg';
+  static const String leftArrowIcon = 'assets/icons/left-arrow.svg';
+  static const String rightArrowIcon = 'assets/icons/right-arrow.svg';
+  static const String heartIcon = 'assets/icons/heart.svg';
+  static const String heartFilledIcon = 'assets/icons/heart-filled.svg';
+  static const String profileIcon = 'assets/icons/profile.svg';
+  static const String profileSquaredIcon = 'assets/icons/profile-squared.svg';
+  static const String shieldCheckIcon = 'assets/icons/shield-check.svg';
+  static const String creditCardIcon = 'assets/icons/credit-card.svg';
+  static const String bellIcon = 'assets/icons/bell.svg';
+  static const String powerIcon = 'assets/icons/power.svg';
+  static const String calendarIcon = 'assets/icons/calendar.svg';
+  static const String infoBlueIcon = 'assets/icons/info-blue.svg';
+  static const String crossCloseIcon = 'assets/icons/cross-close.svg';
+  static const String clockIcon = 'assets/icons/clock.svg';
+  static const String mapPinIcon = 'assets/icons/map-pin.svg';
+}
